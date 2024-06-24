@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="04/16/24||13:01:24" using="Simscape Multibody Link Version 7.4" from="SolidWorks 31.2.1"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="" uid="" version="104">
+<AssemblyFile name="" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="GENERIC-02-17-0000-ADM-0000-MotionBaseClean.stp-1" uid="GENERIC-02-17-0000-ADM-0000-MotionBaseClean.stp-1" grounded="true" entityUid="GENERIC-02-17-0000-ADM-0000-MotionBaseClean.stp" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<Instance name="02-1400-ADM-Lower Joints Assy.iam (LevelofDetail1).stp-1" uid="02-1400-ADM-Lower Joints Assy.iam (LevelofDetail1).stp-1" grounded="true" entityUid="02-1400-ADM-Lower Joints Assy.iam (LevelofDetail1).stp" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0.25</Translation>
+</Transform>
+<Instance name="DIN EN 24032 M20.stp-4" uid="DIN EN 24032 M20.stp-4" grounded="true" entityUid="DIN EN 24032 M20.stp*:*Default">
+<Transform>
+<Rotation>-5e-15 0 -1 -1.0000000000000001e-15 1 0 1 1.0000000000000001e-15 -5e-15</Rotation>
+<Translation>-2.9951650000000001 0.23999999999999999 -0.061008720684412987</Translation>
+</Transform>
+</Instance>
+<Instance name="DIN EN 24032 M20.stp-2" uid="DIN EN 24032 M20.stp-2" grounded="true" entityUid="DIN EN 24032 M20.stp*:*Default">
+<Transform>
+<Rotation>-5e-15 0 -1 -1.0000000000000001e-15 1 0 1 1.0000000000000001e-15 -5e-15</Rotation>
+<Translation>-2.9951649999999979 -0.23999999999999999 -0.061008720684412987</Translation>
+</Transform>
+</Instance>
+<Instance name="03-21-1320-PDM-Threaded Rod.stp-4" uid="03-21-1320-PDM-Threaded Rod.stp-4" grounded="true" entityUid="03-21-1320-PDM-Threaded Rod.stp*:*Default">
+<Transform>
+<Rotation>0.093710813134408044 0.99559945937193439 -2.9867983781158044e-15 -0.99559945937193439 0.093710813134408044 -2.8113243940322421e-16 0 3.000000000000001e-15 1</Rotation>
+<Translation>-2.9951650000000001 0.23999999999999999 -0.22500000000000001</Translation>
+</Transform>
+</Instance>
+<Instance name="03-21-1320-PDM-Threaded Rod.stp-1" uid="03-21-1320-PDM-Threaded Rod.stp-1" grounded="true" entityUid="03-21-1320-PDM-Threaded Rod.stp*:*Default">
+<Transform>
+<Rotation>0.093710813134408044 0.99559945937193439 -2.9867983781158044e-15 -0.99559945937193439 0.093710813134408044 -2.8113243940322421e-16 0 3.000000000000001e-15 1</Rotation>
+<Translation>-2.2951649999999981 -0.23999999999999699 -0.22499999999999901</Translation>
+</Transform>
+</Instance>
+<Instance name="DIN 582 M20.stp-2" uid="DIN 582 M20.stp-2" grounded="true" entityUid="DIN 582 M20.stp*:*Default">
+<Transform>
+<Rotation>-5e-15 -1 2.9999999999999998e-15 -1.0000000000000001e-15 -2.9999999999999998e-15 -1 1 -5e-15 0</Rotation>
+<Translation>-2.9951649999999979 -0.23999999999999999 -0.043008720684412999</Translation>
+</Transform>
+</Instance>
+<Instance name="DIN EN 24032 M20.stp-1" uid="DIN EN 24032 M20.stp-1" grounded="true" entityUid="DIN EN 24032 M20.stp*:*Default">
+<Transform>
+<Rotation>-5e-15 0 -1 -1.0000000000000001e-15 1 0 1 1.0000000000000001e-15 -5e-15</Rotation>
+<Translation>-2.2951649999999981 -0.23999999999999699 -0.061008720684411988</Translation>
+</Transform>
+</Instance>
+<Instance name="03-21-1320-PDM-Threaded Rod.stp-2" uid="03-21-1320-PDM-Threaded Rod.stp-2" grounded="true" entityUid="03-21-1320-PDM-Threaded Rod.stp*:*Default">
+<Transform>
+<Rotation>0.093710813134408044 0.99559945937193439 -2.9867983781158044e-15 -0.99559945937193439 0.093710813134408044 -2.8113243940322421e-16 0 3.000000000000001e-15 1</Rotation>
+<Translation>-2.995164999999997 -0.23999999999999999 -0.225000000000001</Translation>
+</Transform>
+</Instance>
+<Instance name="DIN 582 M20.stp-1" uid="DIN 582 M20.stp-1" grounded="true" entityUid="DIN 582 M20.stp*:*Default">
+<Transform>
+<Rotation>-5e-15 -1 2.9999999999999998e-15 -1.0000000000000001e-15 -2.9999999999999998e-15 -1 1 -5e-15 0</Rotation>
+<Translation>-2.2951649999999981 -0.23999999999999699 -0.043008720684412</Translation>
+</Transform>
+</Instance>
+<Instance name="DIN 582 M20.stp-3" uid="DIN 582 M20.stp-3" grounded="true" entityUid="DIN 582 M20.stp*:*Default">
+<Transform>
+<Rotation>-5e-15 -1 2.9999999999999998e-15 -1.0000000000000001e-15 -2.9999999999999998e-15 -1 1 -5e-15 0</Rotation>
+<Translation>-2.2951649999999999 0.24000000000000299 -0.043008720684412</Translation>
+</Transform>
+</Instance>
+<Instance name="DIN 582 M20.stp-4" uid="DIN 582 M20.stp-4" grounded="true" entityUid="DIN 582 M20.stp*:*Default">
+<Transform>
+<Rotation>-5e-15 -1 2.9999999999999998e-15 -1.0000000000000001e-15 -2.9999999999999998e-15 -1 1 -5e-15 0</Rotation>
+<Translation>-2.9951650000000001 0.23999999999999999 -0.043008720684412999</Translation>
+</Transform>
+</Instance>
+<Instance name="03-21-1320-PDM-Threaded Rod.stp-3" uid="03-21-1320-PDM-Threaded Rod.stp-3" grounded="true" entityUid="03-21-1320-PDM-Threaded Rod.stp*:*Default">
+<Transform>
+<Rotation>0.093710813134408044 0.99559945937193439 -2.9867983781158044e-15 -0.99559945937193439 0.093710813134408044 -2.8113243940322421e-16 0 3.000000000000001e-15 1</Rotation>
+<Translation>-2.295164999999999 0.24000000000000299 -0.22499999999999901</Translation>
+</Transform>
+</Instance>
+<Instance name="DIN EN 24032 M20.stp-3" uid="DIN EN 24032 M20.stp-3" grounded="true" entityUid="DIN EN 24032 M20.stp*:*Default">
+<Transform>
+<Rotation>-5e-15 0 -1 -1.0000000000000001e-15 1 0 1 1.0000000000000001e-15 -5e-15</Rotation>
+<Translation>-2.295164999999999 0.24000000000000299 -0.061008720684411988</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANHUIS_A_SW0002.stp-1" uid="3-134056_CARDANHUIS_A_SW0002.stp-1" grounded="true" entityUid="3-134056_CARDANHUIS_A_SW0002.stp*:*Default">
+<Transform>
+<Rotation>0 1 0 1 0 2.0000000000000002e-15 2.0000000000000002e-15 0 -1</Rotation>
+<Translation>-2.7563650000000011 -0.1143 0</Translation>
+</Transform>
+</Instance>
+<Instance name="03-21-1320-ADM-Lower Cardan Baseplate.stp-2" uid="03-21-1320-ADM-Lower Cardan Baseplate.stp-2" grounded="true" entityUid="03-21-1320-ADM-Lower Cardan Baseplate.stp" rigid="true">
+<Transform>
+<Rotation>0.50000000000000289 0.86602540378443693 5.000000000000028e-16 -0.86602540378443693 0.50000000000000289 -8.6602540378443687e-16 -9.9999999999999988e-16 0 0.99999999999999989</Rotation>
+<Translation>0.84814902337989995 -1.9421802057500239 0.12596630721720403</Translation>
+</Transform>
+<Instance name="03-21-1320-PDM-Base Plate.stp-1" uid="03-21-1320-PDM-Base Plate.stp-1" grounded="true" entityUid="03-21-1320-PDM-Base Plate.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.14965468667949899 -0.13132658480585313 -0.3509663072172029</Translation>
+</Transform>
+</Instance>
+<Instance name="03-21-1320-PDM-Midplate.stp-1" uid="03-21-1320-PDM-Midplate.stp-1" grounded="true" entityUid="03-21-1320-PDM-Midplate.stp*:*Default">
+<Transform>
+<Rotation>-2.0539125955565396e-15 0.99999999999999989 1.9999999999999994e-15 -0.99999999999999989 -2.0539125955565396e-15 0 0 -1.9999999999999998e-15 0.99999999999999978</Rotation>
+<Translation>0.56289071760643328 0.46766739334922292 -0.30096630721720291</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="03-21-1320-ADM-Lower Cardan Baseplate.stp-3" uid="03-21-1320-ADM-Lower Cardan Baseplate.stp-3" grounded="true" entityUid="03-21-1320-ADM-Lower Cardan Baseplate.stp" rigid="true">
+<Transform>
+<Rotation>0.49999999999999711 -0.86602540378444026 4.9999999999999728e-16 0.86602540378444026 0.49999999999999711 8.6602540378444052e-16 -1.0000000000000003e-15 0 0.99999999999999989</Rotation>
+<Translation>1.2579028852168579 1.705608703316966 0.12596630721720403</Translation>
+</Transform>
+<Instance name="03-21-1320-PDM-Base Plate.stp-1" uid="03-21-1320-PDM-Base Plate.stp-1" grounded="true" entityUid="03-21-1320-PDM-Base Plate.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.14965468667949899 -0.13132658480585313 -0.3509663072172029</Translation>
+</Transform>
+</Instance>
+<Instance name="03-21-1320-PDM-Midplate.stp-1" uid="03-21-1320-PDM-Midplate.stp-1" grounded="true" entityUid="03-21-1320-PDM-Midplate.stp*:*Default">
+<Transform>
+<Rotation>-1.9984014443252818e-15 0.99999999999999989 1.9999999999999994e-15 -0.99999999999999989 -1.9984014443252818e-15 0 0 -1.9999999999999994e-15 0.99999999999999989</Rotation>
+<Translation>0.56289071760643328 0.4676673933492228 -0.30096630721720291</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="3-134056_CARDAN_STEUN.stp-1" uid="3-134056_CARDAN_STEUN.stp-1" grounded="true" entityUid="3-134056_CARDAN_STEUN.stp*:*Default">
+<Transform>
+<Rotation>0 -1 0 1 0 0 0 0 1</Rotation>
+<Translation>-2.6093649999999982 -0.1143 0</Translation>
+</Transform>
+</Instance>
+<Instance name="03-21-1320-ADM-Lower Cardan Baseplate.stp-1" uid="03-21-1320-ADM-Lower Cardan Baseplate.stp-1" grounded="true" entityUid="03-21-1320-ADM-Lower Cardan Baseplate.stp" rigid="true">
+<Transform>
+<Rotation>-1 2.9999999999999998e-15 -1.0000000000000001e-15 -2.9999999999999998e-15 -1 0 -1.0000000000000001e-15 0 1</Rotation>
+<Translation>-2.1060519085967582 0.236571502433056 0.12596630721720403</Translation>
+</Transform>
+<Instance name="03-21-1320-PDM-Base Plate.stp-1" uid="03-21-1320-PDM-Base Plate.stp-1" grounded="true" entityUid="03-21-1320-PDM-Base Plate.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.14965468667949944 -0.13132658480585299 -0.35096630721720301</Translation>
+</Transform>
+</Instance>
+<Instance name="03-21-1320-PDM-Midplate.stp-1" uid="03-21-1320-PDM-Midplate.stp-1" grounded="true" entityUid="03-21-1320-PDM-Midplate.stp*:*Default">
+<Transform>
+<Rotation>-2.0000000000000002e-15 1 2.0000000000000002e-15 -1 -2.0000000000000002e-15 0 0 -2.0000000000000002e-15 1</Rotation>
+<Translation>0.56289071760643328 0.46766739334922303 -0.30096630721720302</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="3-134056_CARDANHUIS_A_SW0002.stp-2" uid="3-134056_CARDANHUIS_A_SW0002.stp-2" grounded="true" entityUid="3-134056_CARDANHUIS_A_SW0002.stp*:*Default">
+<Transform>
+<Rotation>0 1 -1.0000000000000001e-15 -1 0 -2.0000000000000002e-15 -2.0000000000000002e-15 1.0000000000000001e-15 1</Rotation>
+<Translation>-2.756365000000002 0.1143 0</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANHUIS_A_SW0002.stp-3" uid="3-134056_CARDANHUIS_A_SW0002.stp-3" grounded="true" entityUid="3-134056_CARDANHUIS_A_SW0002.stp*:*Default">
+<Transform>
+<Rotation>-0.86602540378443926 -0.49999999999999911 -1.7320508075688791e-15 -0.49999999999999911 0.86602540378443926 -9.999999999999985e-16 2.0000000000000005e-15 0 -1.0000000000000002</Rotation>
+<Translation>1.4771692036525621 -2.3299321121022949 0</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANHUIS_A_SW0002.stp-6" uid="3-134056_CARDANHUIS_A_SW0002.stp-6" grounded="true" entityUid="3-134056_CARDANHUIS_A_SW0002.stp*:*Default">
+<Transform>
+<Rotation>-0.86602540378443837 -0.50000000000000022 -1.232050807568877e-15 0.50000000000000022 -0.86602540378443837 1.8660254037844396e-15 -2.0000000000000009e-15 1.0000000000000005e-15 0.99999999999999978</Rotation>
+<Translation>1.477169203652563 2.3299321121022949 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DIN 933 - replaced by DIN EN 24017 M6  x 25.stp-1" uid="DIN 933 - replaced by DIN EN 24017 M6  x 25.stp-1" grounded="true" entityUid="DIN 933 - replaced by DIN EN 24017 M6  x 25.stp*:*Default">
+<Transform>
+<Rotation>2.0000000000000002e-15 0 1 0 1 0 -1 0 2.0000000000000002e-15</Rotation>
+<Translation>-2.3551649999999982 -0.23999999999999699 -0.16499999999999901</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANHUIS_A_SW0002.stp-4" uid="3-134056_CARDANHUIS_A_SW0002.stp-4" grounded="true" entityUid="3-134056_CARDANHUIS_A_SW0002.stp*:*Default">
+<Transform>
+<Rotation>0.86602540378443871 -0.49999999999999983 2.2320508075688765e-15 0.49999999999999983 0.86602540378443871 1.3397459621556084e-16 -1.9999999999999994e-15 9.9999999999999968e-16 1</Rotation>
+<Translation>1.279195796347439 -2.4442321121022959 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DIN 7980 - withdrawn 6.stp-1" uid="DIN 7980 - withdrawn 6.stp-1" grounded="true" entityUid="DIN 7980 - withdrawn 6.stp*:*Default">
+<Transform>
+<Rotation>-2.0000000000000002e-15 -3.7e-14 -1 0 1 -3.7e-14 1 0 -2.0000000000000002e-15</Rotation>
+<Translation>-2.3551649999999982 -0.23999999999999699 -0.166599999999999</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDAN_STEUN.stp-2" uid="3-134056_CARDAN_STEUN.stp-2" grounded="true" entityUid="3-134056_CARDAN_STEUN.stp*:*Default">
+<Transform>
+<Rotation>-0.86602540378443871 0.49999999999999983 0 -0.49999999999999983 -0.86602540378443871 0 0 0 1</Rotation>
+<Translation>1.40366920365256 -2.2026263777459811 0</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDAN_STEUN.stp-3" uid="3-134056_CARDAN_STEUN.stp-3" grounded="true" entityUid="3-134056_CARDAN_STEUN.stp*:*Default">
+<Transform>
+<Rotation>0.86602540378443837 0.50000000000000022 0 -0.50000000000000022 0.86602540378443837 0 0 0 0.99999999999999978</Rotation>
+<Translation>1.2056957963474391 2.3169263777459799 0</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANHUIS_A_SW0002.stp-5" uid="3-134056_CARDANHUIS_A_SW0002.stp-5" grounded="true" entityUid="3-134056_CARDANHUIS_A_SW0002.stp*:*Default">
+<Transform>
+<Rotation>0.86602540378443804 -0.500000000000001 2.0000000000000002e-15 -0.500000000000001 -0.86602540378443804 -1.0000000000000001e-15 2.0000000000000002e-15 0 -1</Rotation>
+<Translation>1.2791957963474401 2.4442321121022941 0</Translation>
+</Transform>
+</Instance>
+<Instance name="DIN 933 - replaced by DIN EN 24017 M6  x 25.stp-2" uid="DIN 933 - replaced by DIN EN 24017 M6  x 25.stp-2" grounded="true" entityUid="DIN 933 - replaced by DIN EN 24017 M6  x 25.stp*:*Default">
+<Transform>
+<Rotation>2.0000000000000002e-15 0 1 0 1 0 -1 0 2.0000000000000002e-15</Rotation>
+<Translation>-2.3551649999999991 2.9999999999999998e-15 -0.16499999999999901</Translation>
+</Transform>
+</Instance>
+<Instance name="DIN 933 - replaced by DIN EN 24017 M6  x 25.stp-3" uid="DIN 933 - replaced by DIN EN 24017 M6  x 25.stp-3" grounded="true" entityUid="DIN 933 - replaced by DIN EN 24017 M6  x 25.stp*:*Default">
+<Transform>
+<Rotation>2.0000000000000002e-15 0 1 0 1 0 -1 0 2.0000000000000002e-15</Rotation>
+<Translation>-2.355165 0.24000000000000299 -0.16499999999999901</Translation>
+</Transform>
+</Instance>
+<Instance name="DIN 7980 - withdrawn 6.stp-2" uid="DIN 7980 - withdrawn 6.stp-2" grounded="true" entityUid="DIN 7980 - withdrawn 6.stp*:*Default">
+<Transform>
+<Rotation>-2.0000000000000002e-15 -3.7e-14 -1 0 1 -3.7e-14 1 0 -2.0000000000000002e-15</Rotation>
+<Translation>-2.3551649999999991 2.9999999999999998e-15 -0.166599999999999</Translation>
+</Transform>
+</Instance>
+<Instance name="DIN 7980 - withdrawn 6.stp-3" uid="DIN 7980 - withdrawn 6.stp-3" grounded="true" entityUid="DIN 7980 - withdrawn 6.stp*:*Default">
+<Transform>
+<Rotation>-2.0000000000000002e-15 -3.7e-14 -1 0 1 -3.7e-14 1 0 -2.0000000000000002e-15</Rotation>
+<Translation>-2.355165 0.24000000000000299 -0.166599999999999</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="_3-133725_PISTONROD_AS_SW0001_1.stp-5" uid="_3-133725_PISTONROD_AS_SW0001_1.stp-5" grounded="true" entityUid="_3-133725_PISTONROD_AS_SW0001_1.stp*:*Default">
+<Transform>
+<Rotation>0.32092739973367296 -0.78750730895360932 0.52615382013706591 0.74807740354988184 -0.12993500531461621 -0.65076654238824982 0.58084920796903083 0.60245259791832195 0.54741671956856996</Rotation>
+<Translation>0.61244073124258702 2.1445873550683339 0.667499650357398</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANAS_SUB_SW0002_1.stp-10" uid="3-134056_CARDANAS_SUB_SW0002_1.stp-10" grounded="true" entityUid="3-134056_CARDANAS_SUB_SW0002_1.stp*:*Default">
+<Transform>
+<Rotation>0 1 0 0.69860206360773403 0 -0.71551041692138595 -0.71551041692138595 0 -0.69860206360773403</Rotation>
+<Translation>-2.6013400000000009 0.114299999999999 0.25</Translation>
+</Transform>
+</Instance>
+<Instance name="Actuator_Derived.stp-6" uid="Actuator_Derived.stp-6" grounded="true" entityUid="Actuator_Derived.stp*:*Default">
+<Transform>
+<Rotation>0.74490130527411302 -0.60500712928058598 0.281226632665875 0.56570869708254901 0.34930102895178899 -0.74696884889423998 0.35368872677269098 0.71551042249074603 0.60245258723075201</Rotation>
+<Translation>1.356156703652563 2.1203323137513661 0.250000000000001</Translation>
+</Transform>
+</Instance>
+<Instance name="_3-133725_PISTONROD_AS_SW0001_1.stp-4" uid="_3-133725_PISTONROD_AS_SW0001_1.stp-4" grounded="true" entityUid="_3-133725_PISTONROD_AS_SW0001_1.stp*:*Default">
+<Transform>
+<Rotation>-0.80831773950622599 0.50628066951072204 -0.30050343705076005 0.096107431325634998 0.61703383327094197 0.78104584388047016 0.58084920043289501 0.60245259753672098 -0.54741672798492758</Rotation>
+<Translation>-2.1634874960290711 0.54190444645676294 0.66749965009294898</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANAS_SUB_SW0002_1.stp-5" uid="3-134056_CARDANAS_SUB_SW0002_1.stp-5" grounded="true" entityUid="3-134056_CARDANAS_SUB_SW0002_1.stp*:*Default">
+<Transform>
+<Rotation>-0.32092739973367296 -0.38302221649939977 0.86619835243901844 -0.74807740354988184 0.66341395995796781 0.016189997867666311 -0.58084920796903083 -0.64278760053440254 -0.49943798233712133</Rotation>
+<Translation>-0.92357793906752805 1.82828391342657 1.924400623676495</Translation>
+</Transform>
+</Instance>
+<Instance name="_3-133725_PISTONROD_AS_SW0001_1.stp-2" uid="_3-133725_PISTONROD_AS_SW0001_1.stp-2" grounded="true" entityUid="_3-133725_PISTONROD_AS_SW0001_1.stp*:*Default">
+<Transform>
+<Rotation>0.32092737008147793 -0.7875073224844964 -0.52615381797140404 -0.74807742408574585 0.12993500531843941 -0.65076651878083891 0.58084919790408684 0.60245258023034187 -0.54741674971449517</Rotation>
+<Translation>0.61244072186568199 -2.1445873550656862 0.66749963809962698</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANAS_SUB_SW0002_1.stp-1" uid="3-134056_CARDANAS_SUB_SW0002_1.stp-1" grounded="true" entityUid="3-134056_CARDANAS_SUB_SW0002_1.stp*:*Default">
+<Transform>
+<Rotation>-0.48731115401173891 0.76604444178433662 -0.41917031429607632 0.6521132444935569 7.1303518099778443e-10 -0.75812157096081001 -0.58075481533245488 -0.64278761127710304 -0.49954772670570941</Rotation>
+<Translation>2.0451292653946931 -0.114300029641381 1.9244005930422401</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANAS_SUB_SW0002_1.stp-3" uid="3-134056_CARDANAS_SUB_SW0002_1.stp-3" grounded="true" entityUid="3-134056_CARDANAS_SUB_SW0002_1.stp*:*Default">
+<Transform>
+<Rotation>0.80840221376782395 -0.38302222928885832 -0.44696737313351481 0.095967211611222999 -0.66341393637990731 0.7420729366527814 -0.58075481493557002 -0.64278761724811517 -0.49954771948397714</Rotation>
+<Translation>-1.121551380517009 -1.713983913569574 1.924400579466508</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANAS_SUB_SW0002_1.stp-9" uid="3-134056_CARDANAS_SUB_SW0002_1.stp-9" grounded="true" entityUid="3-134056_CARDANAS_SUB_SW0002_1.stp*:*Default">
+<Transform>
+<Rotation>0 1 0 -0.69865586700546667 0 -0.71545788100966468 -0.71545788100966468 0 0.69865586700546667</Rotation>
+<Translation>-2.60134 -0.1143 0.25</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANAS_SUB_SW0002_1.stp-12" uid="3-134056_CARDANAS_SUB_SW0002_1.stp-12" grounded="true" entityUid="3-134056_CARDANAS_SUB_SW0002_1.stp*:*Default">
+<Transform>
+<Rotation>-0.60500712928058598 -0.49999999999999989 0.61965020254952263 0.34930102895178899 -0.86602540378443871 -0.35775521124537291 0.71551042249074603 0 0.6986020579035781</Rotation>
+<Translation>1.3996567036525629 2.195676523880612 0.25</Translation>
+</Transform>
+</Instance>
+<Instance name="02-21-1100-ADM-1000-Platform_Weges Only.stp-1" uid="02-21-1100-ADM-1000-Platform_Weges Only.stp-1" grounded="true" entityUid="02-21-1100-ADM-1000-Platform_Weges Only.stp" rigid="true">
+<Transform>
+<Rotation>1 9.6391220261550228e-09 2.0763318785784377e-09 -9.6391220000000003e-09 0.99999999999999989 -1.2596745020014015e-08 -2.0763319999999998e-09 1.2596744999999998e-08 1</Rotation>
+<Translation>-1.8179362e-08 -9.2238889999999998e-09 1.868494146375929</Translation>
+</Transform>
+<Instance name="UJP.stp-1" uid="UJP.stp-1" grounded="true" entityUid="UJP.stp" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="03-21-1310-ADM-Platform Wedge.stp-1" uid="03-21-1310-ADM-Platform Wedge.stp-1" grounded="true" entityUid="03-21-1310-ADM-Platform Wedge.stp" rigid="true">
+<Transform>
+<Rotation>-1 -1.2000000001855519e-14 0 -1.1999999999920926e-14 1 -1.0000000001533352e-14 0 -9.9999999998789903e-15 -1.0000000000000002</Rotation>
+<Translation>2.3367657851008601 8.9999999979058578e-15 0.43700037831009486</Translation>
+</Transform>
+<Instance name="03-21-1310-ADM-Platform Wedge-0.stp-1" uid="03-21-1310-ADM-Platform Wedge-0.stp-1" grounded="true" entityUid="03-21-1310-ADM-Platform Wedge-0.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="02-21-1310-PDM-0010-Washer.stp-3" uid="02-21-1310-PDM-0010-Washer.stp-3" grounded="true" entityUid="02-21-1310-PDM-0010-Washer.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 -1 0 0 0 -1.0000000000000002</Rotation>
+<Translation>0.15649999999999986 0.1905 0.041999999999999815</Translation>
+</Transform>
+</Instance>
+<Instance name="02-21-1310-PDM-0001-Pin.stp-1" uid="02-21-1310-PDM-0001-Pin.stp-1" grounded="true" entityUid="02-21-1310-PDM-0001-Pin.stp*:*Default">
+<Transform>
+<Rotation>-0.8856150426723316 -0.46442006437328326 0 -0.4644200643732832 0.88561504267233149 0 0 0 -1.0000000000000002</Rotation>
+<Translation>0.22499999999999964 0 0.008999999999999897</Translation>
+</Transform>
+</Instance>
+<Instance name="02-21-1310-PDM-0010-Washer.stp-4" uid="02-21-1310-PDM-0010-Washer.stp-4" grounded="true" entityUid="02-21-1310-PDM-0010-Washer.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 -1 0 0 0 -1.0000000000000002</Rotation>
+<Translation>0.15649999999999986 -0.19049999999999997 0.041999999999999815</Translation>
+</Transform>
+</Instance>
+<Instance name="03-21-1310-PDM-Midplate.stp-1" uid="03-21-1310-PDM-Midplate.stp-1" grounded="true" entityUid="03-21-1310-PDM-Midplate.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 0 -1 0 1.0000000000000002 0</Rotation>
+<Translation>0.13529880551779794 0.26500000000000096 0.059308297482951744</Translation>
+</Transform>
+</Instance>
+<Instance name="02-21-1310-PDM-0010-Washer.stp-1" uid="02-21-1310-PDM-0010-Washer.stp-1" grounded="true" entityUid="02-21-1310-PDM-0010-Washer.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 -1 0 0 0 -1.0000000000000002</Rotation>
+<Translation>0.32182999999999984 0.1905 0.041999999999999815</Translation>
+</Transform>
+</Instance>
+<Instance name="02-21-1310-PDM-0010-Washer.stp-2" uid="02-21-1310-PDM-0010-Washer.stp-2" grounded="true" entityUid="02-21-1310-PDM-0010-Washer.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 -1 0 0 0 -1.0000000000000002</Rotation>
+<Translation>0.32182999999999984 -0.19049999999999997 0.041999999999999815</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="03-21-1310-ADM-Platform Wedge.stp-2" uid="03-21-1310-ADM-Platform Wedge.stp-2" grounded="true" entityUid="03-21-1310-ADM-Platform Wedge.stp" rigid="true">
+<Transform>
+<Rotation>0.5000000000000111 -0.86602540378443227 8.6602540372058637e-15 -0.86602540378443216 -0.50000000000001121 5.0000000015938564e-15 0 -9.9999999998789903e-15 -1</Rotation>
+<Translation>-1.1683828925504369 2.0236985325916272 0.43700037831009531</Translation>
+</Transform>
+<Instance name="03-21-1310-ADM-Platform Wedge-0.stp-1" uid="03-21-1310-ADM-Platform Wedge-0.stp-1" grounded="true" entityUid="03-21-1310-ADM-Platform Wedge-0.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="02-21-1310-PDM-0010-Washer.stp-3" uid="02-21-1310-PDM-0010-Washer.stp-3" grounded="true" entityUid="02-21-1310-PDM-0010-Washer.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 -1 0 0 0 -0.99999999999999989</Rotation>
+<Translation>0.15650000000000031 0.19049999999999981 0.041999999999999815</Translation>
+</Transform>
+</Instance>
+<Instance name="02-21-1310-PDM-0001-Pin.stp-1" uid="02-21-1310-PDM-0001-Pin.stp-1" grounded="true" entityUid="02-21-1310-PDM-0001-Pin.stp*:*Default">
+<Transform>
+<Rotation>-0.88561504267233149 -0.4644200643732832 0 -0.4644200643732832 0.8856150426723316 0 0 0 -1</Rotation>
+<Translation>0.22500000000000009 0 0.008999999999999897</Translation>
+</Transform>
+</Instance>
+<Instance name="02-21-1310-PDM-0010-Washer.stp-4" uid="02-21-1310-PDM-0010-Washer.stp-4" grounded="true" entityUid="02-21-1310-PDM-0010-Washer.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 -1 0 0 0 -0.99999999999999989</Rotation>
+<Translation>0.15650000000000031 -0.19049999999999997 0.042000000000000259</Translation>
+</Transform>
+</Instance>
+<Instance name="03-21-1310-PDM-Midplate.stp-1" uid="03-21-1310-PDM-Midplate.stp-1" grounded="true" entityUid="03-21-1310-PDM-Midplate.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 0 -1 0 0.99999999999999989 0</Rotation>
+<Translation>0.13529880551779794 0.26500000000000096 0.059308297482952188</Translation>
+</Transform>
+</Instance>
+<Instance name="02-21-1310-PDM-0010-Washer.stp-1" uid="02-21-1310-PDM-0010-Washer.stp-1" grounded="true" entityUid="02-21-1310-PDM-0010-Washer.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 -1 0 0 0 -0.99999999999999989</Rotation>
+<Translation>0.32183000000000028 0.19049999999999995 0.041999999999999815</Translation>
+</Transform>
+</Instance>
+<Instance name="02-21-1310-PDM-0010-Washer.stp-2" uid="02-21-1310-PDM-0010-Washer.stp-2" grounded="true" entityUid="02-21-1310-PDM-0010-Washer.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 -1 0 0 0 -0.99999999999999989</Rotation>
+<Translation>0.32182999999999984 -0.19050000000000009 0.041999999999999815</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="03-21-1310-ADM-Platform Wedge.stp-3" uid="03-21-1310-ADM-Platform Wedge.stp-3" grounded="true" entityUid="03-21-1310-ADM-Platform Wedge.stp" rigid="true">
+<Transform>
+<Rotation>0.49999999999998901 0.86602540378444504 -8.6602540385668317e-15 0.86602540378444492 -0.49999999999998901 4.9999999985066658e-15 0 -9.9999999998789887e-15 -1</Rotation>
+<Translation>-1.168382892550422 -2.023698532591637 0.43700037831009531</Translation>
+</Transform>
+<Instance name="03-21-1310-ADM-Platform Wedge-0.stp-1" uid="03-21-1310-ADM-Platform Wedge-0.stp-1" grounded="true" entityUid="03-21-1310-ADM-Platform Wedge-0.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="02-21-1310-PDM-0010-Washer.stp-3" uid="02-21-1310-PDM-0010-Washer.stp-3" grounded="true" entityUid="02-21-1310-PDM-0010-Washer.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 -1 0 -1.6987298034999707e-16 2.942286352303958e-16 -0.99999999999999989</Rotation>
+<Translation>0.15650000000000031 0.1905 0.041999999999999815</Translation>
+</Transform>
+</Instance>
+<Instance name="02-21-1310-PDM-0001-Pin.stp-1" uid="02-21-1310-PDM-0001-Pin.stp-1" grounded="true" entityUid="02-21-1310-PDM-0001-Pin.stp*:*Default">
+<Transform>
+<Rotation>-0.88561504267233127 -0.46442006437328331 -1.6987298034999707e-16 -0.46442006437328331 0.88561504267233138 -2.9422863357603458e-16 2.8708774795680619e-16 -1.8168088598687926e-16 -0.99999999999999989</Rotation>
+<Translation>0.22500000000000053 0 0.008999999999999897</Translation>
+</Transform>
+</Instance>
+<Instance name="02-21-1310-PDM-0010-Washer.stp-4" uid="02-21-1310-PDM-0010-Washer.stp-4" grounded="true" entityUid="02-21-1310-PDM-0010-Washer.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 -1 0 -1.6987298034999707e-16 2.942286352303958e-16 -0.99999999999999989</Rotation>
+<Translation>0.15650000000000031 -0.19049999999999992 0.041999999999999815</Translation>
+</Transform>
+</Instance>
+<Instance name="03-21-1310-PDM-Midplate.stp-1" uid="03-21-1310-PDM-Midplate.stp-1" grounded="true" entityUid="03-21-1310-PDM-Midplate.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 0 -1 -1.6987298034999707e-16 0.99999999999999989 2.942286352303958e-16</Rotation>
+<Translation>0.13529880551779838 0.26500000000000129 0.059308297482951744</Translation>
+</Transform>
+</Instance>
+<Instance name="02-21-1310-PDM-0010-Washer.stp-1" uid="02-21-1310-PDM-0010-Washer.stp-1" grounded="true" entityUid="02-21-1310-PDM-0010-Washer.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 -1 0 -1.6987298034999707e-16 2.942286352303958e-16 -0.99999999999999989</Rotation>
+<Translation>0.32183000000000028 0.1905000000000002 0.041999999999999815</Translation>
+</Transform>
+</Instance>
+<Instance name="02-21-1310-PDM-0010-Washer.stp-2" uid="02-21-1310-PDM-0010-Washer.stp-2" grounded="true" entityUid="02-21-1310-PDM-0010-Washer.stp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 -1 0 -1.6987298034999707e-16 2.942286352303958e-16 -0.99999999999999989</Rotation>
+<Translation>0.32183000000000028 -0.19049999999999984 0.041999999999999815</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+<Instance name="Actuator_Derived.stp-3" uid="Actuator_Derived.stp-3" grounded="true" entityUid="Actuator_Derived.stp*:*Default">
+<Transform>
+<Rotation>-0.86245709028418027 -1.9150394387694287e-16 0.50613018821104239 -0.36211483197249505 -0.69865586700546678 -0.61705172227648064 0.35361082546222605 -0.71545788100966456 0.60256070616750601</Rotation>
+<Translation>-2.5143400000000011 -0.1143 0.25</Translation>
+</Transform>
+</Instance>
+<Instance name="Actuator_Derived.stp-2" uid="Actuator_Derived.stp-2" grounded="true" entityUid="Actuator_Derived.stp*:*Default">
+<Transform>
+<Rotation>0.11746745092962603 0.60500711979727595 -0.78750732248449629 -0.92795780582475818 0.34930102347659608 0.12993500531843924 0.35368871706770105 0.71551043318235896 0.60245258023034198</Rotation>
+<Translation>1.158183296347439 -2.2346323137513648 0.25</Translation>
+</Transform>
+</Instance>
+<Instance name="Actuator_Derived.stp-1" uid="Actuator_Derived.stp-1" grounded="true" entityUid="Actuator_Derived.stp*:*Default">
+<Transform>
+<Rotation>0.74482918699384315 0.6050537375544901 0.2813173597086267 -0.56585233000465407 0.34932793825127295 0.7468474624616589 0.35361083528420706 -0.71545787173561604 0.60256071141516376</Rotation>
+<Translation>1.356156703652561 -2.1203323137513639 0.249999999999999</Translation>
+</Transform>
+</Instance>
+<Instance name="02-1100-ADM-Upper Joints Assy.iam (LevelofDetail1).stp-1" uid="02-1100-ADM-Upper Joints Assy.iam (LevelofDetail1).stp-1" grounded="true" entityUid="02-1100-ADM-Upper Joints Assy.iam (LevelofDetail1).stp" rigid="true">
+<Transform>
+<Rotation>1 9.6391220000000003e-09 2.0763319999999998e-09 -9.6391220000000003e-09 1 -1.2596745e-08 -2.0763319999999998e-09 1.2596745e-08 1</Rotation>
+<Translation>-1.8179362e-08 -9.2238889999999998e-09 1.868494146375929</Translation>
+</Transform>
+<Instance name="03-21-1300-PDM-Cardan Block Key.stp-1" uid="03-21-1300-PDM-Cardan Block Key.stp-1" grounded="true" entityUid="03-21-1300-PDM-Cardan Block Key.stp*:*Default">
+<Transform>
+<Rotation>0.76604444311898001 -2.0308745308062843e-15 0.64278760968653703 -1.0329006740860657e-15 1.0000000000000002 4.3497529911936763e-15 -0.64278760968653703 -3.9760258454337954e-15 0.76604444311898012</Rotation>
+<Translation>1.8851980426808903 -0.13969805884933811 0.33892112941062513</Translation>
+</Transform>
+</Instance>
+<Instance name="03-21-1300-PDM-Cardan Block Key.stp-3" uid="03-21-1300-PDM-Cardan Block Key.stp-3" grounded="true" entityUid="03-21-1300-PDM-Cardan Block Key.stp*:*Default">
+<Transform>
+<Rotation>-1.0261550250581112e-15 -0.7660444431189809 0.64278760968653592 1.0000000000000002 -7.6604444125050715e-16 6.4278760813274018e-16 0 0.64278760968653592 0.76604444311898101</Rotation>
+<Translation>2.0057012963624352 0.0035922331051899533 0.23780689369077712</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANHUIS_A_SW0002.stp-1" uid="3-134056_CARDANHUIS_A_SW0002.stp-1" grounded="true" entityUid="3-134056_CARDANHUIS_A_SW0002.stp*:*Default">
+<Transform>
+<Rotation>0 0.76604444311897713 -0.64278760968654025 1 0 0 0 -0.64278760968654025 -0.76604444311897713</Rotation>
+<Translation>1.9263732447652075 -0.11430000000000207 0.15555460154414225</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDAN_STEUN.stp-1" uid="3-134056_CARDAN_STEUN.stp-1" grounded="true" entityUid="3-134056_CARDAN_STEUN.stp*:*Default">
+<Transform>
+<Rotation>1.0261550258685307e-15 -0.76604444311897713 -0.64278760968654025 -1 4.8663010223978798e-16 -2.1763569964049872e-15 1.9799859835593787e-15 0.64278760968654025 -0.76604444311897713</Rotation>
+<Translation>2.0389817779036972 0.11429999999999897 0.061064822920221307</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANHUIS_A_SW0002.stp-2" uid="3-134056_CARDANHUIS_A_SW0002.stp-2" grounded="true" entityUid="3-134056_CARDANHUIS_A_SW0002.stp*:*Default">
+<Transform>
+<Rotation>0 0.76604444311897679 0.64278760968654092 -1.0000000000000002 0 0 0 -0.64278760968654092 0.7660444431189769</Rotation>
+<Translation>1.9263732447652062 0.11429999999999998 0.15555460154414447</Translation>
+</Transform>
+</Instance>
+<Instance name="03-21-1300-PDM-Cardan Block Key.stp-2" uid="03-21-1300-PDM-Cardan Block Key.stp-2" grounded="true" entityUid="03-21-1300-PDM-Cardan Block Key.stp*:*Default">
+<Transform>
+<Rotation>0.76604444311898001 -2.0308745308062843e-15 0.64278760968653703 -1.0329006740860657e-15 1.0000000000000002 4.3497529911936763e-15 -0.64278760968653703 -3.9760258454337954e-15 0.76604444311898012</Rotation>
+<Translation>1.8851980426808912 0.090901941150661983 0.33892112941062424</Translation>
+</Transform>
+</Instance>
+<Instance name="M24x80.stp-3" uid="M24x80.stp-3" grounded="true" entityUid="M24x80.stp*:*Default">
+<Transform>
+<Rotation>0.64278760968653703 -2.1424066301914572e-15 -0.7660444431189799 2.9985194982067154e-15 1.0000000000000002 -2.4651367119861761e-16 0.76604444311898001 -2.1185292484003852e-15 0.64278760968653692</Rotation>
+<Translation>1.8842155746461822 -0.24000000000000207 0.29666707742822429</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANHUIS_A_SW0002.stp-5" uid="3-134056_CARDANHUIS_A_SW0002.stp-5" grounded="true" entityUid="3-134056_CARDANHUIS_A_SW0002.stp*:*Default">
+<Transform>
+<Rotation>0.86602540378443804 -0.38302222155948934 0.3213938048432709 -0.500000000000001 -0.66341394816893728 0.55667039922641992 0 -0.64278760968654036 -0.76604444311897724</Rotation>
+<Translation>-1.0621733260351669 -1.6111381671373275 0.15555460154414269</Translation>
+</Transform>
+</Instance>
+<Instance name="03-21-1300-PDM-Cardan Block Key.stp-8" uid="03-21-1300-PDM-Cardan Block Key.stp-8" grounded="true" entityUid="03-21-1300-PDM-Cardan Block Key.stp*:*Default">
+<Transform>
+<Rotation>-0.38302222155949095 0.8660254037844396 -0.32139380484326485 -0.66341394816893984 -0.4999999999999985 -0.55667039922641914 -0.64278760968653681 -3.6587920451645178e-15 0.76604444311898012</Rotation>
+<Translation>-0.86387563105065412 -1.6780803667016815 0.33892112941062424</Translation>
+</Transform>
+</Instance>
+<Instance name="M24x80.stp-14" uid="M24x80.stp-14" grounded="true" entityUid="M24x80.stp*:*Default">
+<Transform>
+<Rotation>-0.32139380484326613 0.86602540378443926 0.38302222155949056 -0.55667039922641837 -0.49999999999999895 0.66341394816894028 0.76604444311898046 -2.155034674361151e-15 0.6427876096865367</Rotation>
+<Translation>-1.1911287730490039 -1.5830955532780495 0.2275674093869211</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANHUIS_A_SW0002.stp-4" uid="3-134056_CARDANHUIS_A_SW0002.stp-4" grounded="true" entityUid="3-134056_CARDANHUIS_A_SW0002.stp*:*Default">
+<Transform>
+<Rotation>0.86602540378443871 -0.38302222155948812 -0.32139380484327057 0.49999999999999994 0.66341394816893717 0.55667039922642114 1.1516116517751251e-16 -0.64278760968654114 0.76604444311897646</Rotation>
+<Translation>-1.0621733260351649 1.6111381671373275 0.15555460154414313</Translation>
+</Transform>
+</Instance>
+<Instance name="M24x80.stp-17" uid="M24x80.stp-17" grounded="true" entityUid="M24x80.stp*:*Default">
+<Transform>
+<Rotation>-0.32139380484326613 0.86602540378443926 0.38302222155949056 -0.55667039922641837 -0.49999999999999895 0.66341394816894028 0.76604444311898046 -2.155034674361151e-15 0.6427876096865367</Rotation>
+<Translation>-0.77543657923247311 -1.8230955532780484 0.2275674093869211</Translation>
+</Transform>
+</Instance>
+<Instance name="03-21-1300-PDM-Cardan Block Key.stp-4" uid="03-21-1300-PDM-Cardan Block Key.stp-4" grounded="true" entityUid="03-21-1300-PDM-Cardan Block Key.stp*:*Default">
+<Transform>
+<Rotation>-0.38302222155948895 -0.8660254037844376 -0.32139380484327235 0.66341394816894084 -0.50000000000000167 0.55667039922641481 -0.64278760968653681 -4.3134308270426932e-15 0.76604444311898012</Rotation>
+<Translation>-0.82161695351754416 1.7024784255510221 0.3389211294106238</Translation>
+</Transform>
+</Instance>
+<Instance name="M24x80.stp-4" uid="M24x80.stp-4" grounded="true" entityUid="M24x80.stp*:*Default">
+<Transform>
+<Rotation>0.64278760968653703 -2.1424066301914572e-15 -0.7660444431189799 2.9985194982067154e-15 1.0000000000000002 -2.4651367119861761e-16 0.76604444311898001 -2.1185292484003852e-15 0.64278760968653692</Rotation>
+<Translation>2.0412546854855735 0.23999999999999899 0.16489561744248316</Translation>
+</Transform>
+</Instance>
+<Instance name="03-21-1300-PDM-Cardan Block Key.stp-6" uid="03-21-1300-PDM-Cardan Block Key.stp-6" grounded="true" entityUid="03-21-1300-PDM-Cardan Block Key.stp*:*Default">
+<Transform>
+<Rotation>-0.86602540378443837 0.38302222155949039 -0.32139380484326863 -0.50000000000000044 -0.66341394816894017 0.55667039922641715 -1.1516116517751251e-16 0.64278760968653681 0.76604444311898001</Rotation>
+<Translation>-1.0059616133066269 1.7351921585006553 0.23780689369077712</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDAN_STEUN.stp-3" uid="3-134056_CARDAN_STEUN.stp-3" grounded="true" entityUid="3-134056_CARDAN_STEUN.stp*:*Default">
+<Transform>
+<Rotation>-0.86602540378443882 0.38302222155948973 0.32139380484326857 0.49999999999999994 0.6634139481689374 0.55667039922642092 1.9048528525381935e-15 0.64278760968654014 -0.76604444311897746</Rotation>
+<Translation>-0.92050418529928901 -1.8229600175181604 0.061064822920219974</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANHUIS_A_SW0002.stp-3" uid="3-134056_CARDANHUIS_A_SW0002.stp-3" grounded="true" entityUid="3-134056_CARDANHUIS_A_SW0002.stp*:*Default">
+<Transform>
+<Rotation>-0.86602540378443904 -0.38302222155948773 0.32139380484326979 -0.49999999999999911 0.66341394816893784 -0.55667039922642092 -1.1516116683187373e-16 -0.6427876096865407 -0.76604444311897668</Rotation>
+<Translation>-0.86419991873004021 1.7254381671373293 0.1555546015441418</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDAN_STEUN.stp-2" uid="3-134056_CARDAN_STEUN.stp-2" grounded="true" entityUid="3-134056_CARDAN_STEUN.stp*:*Default">
+<Transform>
+<Rotation>0.86602540378443804 0.38302222155948806 0.3213938048432724 0.50000000000000122 -0.66341394816893762 -0.55667039922641948 2.1151611649878744e-15 0.6427876096865407 -0.76604444311897679</Rotation>
+<Translation>-1.1184775926044079 1.7086600175181634 0.061064822920221085</Translation>
+</Transform>
+</Instance>
+<Instance name="03-21-1300-PDM-Cardan Block Key.stp-5" uid="03-21-1300-PDM-Cardan Block Key.stp-5" grounded="true" entityUid="03-21-1300-PDM-Cardan Block Key.stp*:*Default">
+<Transform>
+<Rotation>-0.38302222155948895 -0.8660254037844376 -0.32139380484327235 0.66341394816894084 -0.50000000000000167 0.55667039922641481 -0.64278760968653681 -4.3134308270426932e-15 0.76604444311898012</Rotation>
+<Translation>-1.0213224116302351 1.5871784255510213 0.33892112941062424</Translation>
+</Transform>
+</Instance>
+<Instance name="M24x80.stp-12" uid="M24x80.stp-12" grounded="true" entityUid="M24x80.stp*:*Default">
+<Transform>
+<Rotation>-0.32139380484327001 -0.86602540378443782 0.38302222155949089 0.55667039922641626 -0.50000000000000178 -0.66341394816893995 0.76604444311898012 -9.0466213993893388e-16 0.64278760968653681</Rotation>
+<Translation>-1.1499538842313553 1.5117785538498894 0.29666707742822296</Translation>
+</Transform>
+</Instance>
+<Instance name="03-21-1300-PDM-Cardan Block Key.stp-9" uid="03-21-1300-PDM-Cardan Block Key.stp-9" grounded="true" entityUid="03-21-1300-PDM-Cardan Block Key.stp*:*Default">
+<Transform>
+<Rotation>0.86602540378443882 0.38302222155949028 -0.32139380484326785 -0.49999999999999994 0.66341394816894095 -0.55667039922641659 0 0.64278760968653603 0.7660444431189809</Rotation>
+<Translation>-0.99973968305580807 -1.7387843916058445 0.23780689369077668</Translation>
+</Transform>
+</Instance>
+<Instance name="M24x80.stp-2" uid="M24x80.stp-2" grounded="true" entityUid="M24x80.stp*:*Default">
+<Transform>
+<Rotation>0.64278760968653703 -2.1424066301914572e-15 -0.7660444431189799 2.9985194982067154e-15 1.0000000000000002 -2.4651367119861761e-16 0.76604444311898001 -2.1185292484003852e-15 0.64278760968653692</Rotation>
+<Translation>1.9665653522814732 -0.2400000000000011 0.2275674093869211</Translation>
+</Transform>
+</Instance>
+<Instance name="M24x80.stp-6" uid="M24x80.stp-6" grounded="true" entityUid="M24x80.stp*:*Default">
+<Transform>
+<Rotation>0.64278760968653703 -2.1424066301914572e-15 -0.7660444431189799 2.9985194982067154e-15 1.0000000000000002 -2.4651367119861761e-16 0.76604444311898001 -2.1185292484003852e-15 0.64278760968653692</Rotation>
+<Translation>1.8842155746461822 0.23999999999999902 0.2966670774282234</Translation>
+</Transform>
+</Instance>
+<Instance name="M24x80.stp-8" uid="M24x80.stp-8" grounded="true" entityUid="M24x80.stp*:*Default">
+<Transform>
+<Rotation>-0.32139380484327001 -0.86602540378443782 0.38302222155949089 0.55667039922641626 -0.50000000000000178 -0.66341394816893995 0.76604444311898012 -9.0466213993893388e-16 0.64278760968653681</Rotation>
+<Translation>-0.77543657923247011 1.8230955532780513 0.22756740938692199</Translation>
+</Transform>
+</Instance>
+<Instance name="03-21-1300-PDM-Cardan Block Key.stp-7" uid="03-21-1300-PDM-Cardan Block Key.stp-7" grounded="true" entityUid="03-21-1300-PDM-Cardan Block Key.stp*:*Default">
+<Transform>
+<Rotation>-0.38302222155949095 0.8660254037844396 -0.32139380484326485 -0.66341394816893984 -0.4999999999999985 -0.55667039922641914 -0.64278760968653681 -3.6587920451645178e-15 0.76604444311898012</Rotation>
+<Translation>-1.0635810891633457 -1.5627803667016815 0.33892112941062424</Translation>
+</Transform>
+</Instance>
+<Instance name="M24x80.stp-1" uid="M24x80.stp-1" grounded="true" entityUid="M24x80.stp*:*Default">
+<Transform>
+<Rotation>0.64278760968653703 -2.1424066301914572e-15 -0.7660444431189799 2.9985194982067154e-15 1.0000000000000002 -2.4651367119861761e-16 0.76604444311898001 -2.1185292484003852e-15 0.64278760968653692</Rotation>
+<Translation>2.041254685485574 -0.24000000000000113 0.16489561744248449</Translation>
+</Transform>
+</Instance>
+<Instance name="M24x80.stp-7" uid="M24x80.stp-7" grounded="true" entityUid="M24x80.stp*:*Default">
+<Transform>
+<Rotation>-0.32139380484327001 -0.86602540378443782 0.38302222155949089 0.55667039922641626 -0.50000000000000178 -0.66341394816893995 0.76604444311898012 -9.0466213993893388e-16 0.64278760968653681</Rotation>
+<Translation>-0.81278124583452027 1.8877784132245234 0.16489561744248404</Translation>
+</Transform>
+</Instance>
+<Instance name="M24x80.stp-9" uid="M24x80.stp-9" grounded="true" entityUid="M24x80.stp*:*Default">
+<Transform>
+<Rotation>-0.32139380484327001 -0.86602540378443782 0.38302222155949089 0.55667039922641626 -0.50000000000000178 -0.66341394816893995 0.76604444311898012 -9.0466213993893388e-16 0.64278760968653681</Rotation>
+<Translation>-0.73426169041482403 1.7517785538498893 0.29666707742822385</Translation>
+</Transform>
+</Instance>
+<Instance name="M24x80.stp-5" uid="M24x80.stp-5" grounded="true" entityUid="M24x80.stp*:*Default">
+<Transform>
+<Rotation>0.64278760968653703 -2.1424066301914572e-15 -0.7660444431189799 2.9985194982067154e-15 1.0000000000000002 -2.4651367119861761e-16 0.76604444311898001 -2.1185292484003852e-15 0.64278760968653692</Rotation>
+<Translation>1.9665653522814721 0.23999999999999899 0.2275674093869211</Translation>
+</Transform>
+</Instance>
+<Instance name="M24x80.stp-10" uid="M24x80.stp-10" grounded="true" entityUid="M24x80.stp*:*Default">
+<Transform>
+<Rotation>-0.32139380484327001 -0.86602540378443782 0.38302222155949089 0.55667039922641626 -0.50000000000000178 -0.66341394816893995 0.76604444311898012 -9.0466213993893388e-16 0.64278760968653681</Rotation>
+<Translation>-1.2284734396510499 1.6477784132245215 0.16489561744248316</Translation>
+</Transform>
+</Instance>
+<Instance name="M24x80.stp-11" uid="M24x80.stp-11" grounded="true" entityUid="M24x80.stp*:*Default">
+<Transform>
+<Rotation>-0.32139380484327001 -0.86602540378443782 0.38302222155949089 0.55667039922641626 -0.50000000000000178 -0.66341394816893995 0.76604444311898012 -9.0466213993893388e-16 0.64278760968653681</Rotation>
+<Translation>-1.1911287730489999 1.5830955532780493 0.2275674093869211</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANHUIS_A_SW0002.stp-6" uid="3-134056_CARDANHUIS_A_SW0002.stp-6" grounded="true" entityUid="3-134056_CARDANHUIS_A_SW0002.stp*:*Default">
+<Transform>
+<Rotation>-0.86602540378443849 -0.38302222155948845 -0.32139380484327068 0.50000000000000033 -0.66341394816893695 -0.55667039922642081 0 -0.64278760968654114 0.76604444311897635</Rotation>
+<Translation>-0.86419991873004209 -1.7254381671373276 0.15555460154414402</Translation>
+</Transform>
+</Instance>
+<Instance name="M24x80.stp-13" uid="M24x80.stp-13" grounded="true" entityUid="M24x80.stp*:*Default">
+<Transform>
+<Rotation>-0.32139380484326613 0.86602540378443926 0.38302222155949056 -0.55667039922641837 -0.49999999999999895 0.66341394816894028 0.76604444311898046 -2.155034674361151e-15 0.6427876096865367</Rotation>
+<Translation>-1.2284734396510537 -1.6477784132245201 0.16489561744248271</Translation>
+</Transform>
+</Instance>
+<Instance name="M24x80.stp-15" uid="M24x80.stp-15" grounded="true" entityUid="M24x80.stp*:*Default">
+<Transform>
+<Rotation>-0.32139380484326613 0.86602540378443926 0.38302222155949056 -0.55667039922641837 -0.49999999999999895 0.66341394816894028 0.76604444311898046 -2.155034674361151e-15 0.6427876096865367</Rotation>
+<Translation>-1.149953884231357 -1.5117785538498867 0.29666707742822518</Translation>
+</Transform>
+</Instance>
+<Instance name="M24x80.stp-16" uid="M24x80.stp-16" grounded="true" entityUid="M24x80.stp*:*Default">
+<Transform>
+<Rotation>-0.32139380484326613 0.86602540378443926 0.38302222155949056 -0.55667039922641837 -0.49999999999999895 0.66341394816894028 0.76604444311898046 -2.155034674361151e-15 0.6427876096865367</Rotation>
+<Translation>-0.81278124583452305 -1.8877784132245197 0.16489561744248316</Translation>
+</Transform>
+</Instance>
+<Instance name="M24x80.stp-18" uid="M24x80.stp-18" grounded="true" entityUid="M24x80.stp*:*Default">
+<Transform>
+<Rotation>-0.32139380484326613 0.86602540378443926 0.38302222155949056 -0.55667039922641837 -0.49999999999999895 0.66341394816894028 0.76604444311898046 -2.155034674361151e-15 0.6427876096865367</Rotation>
+<Translation>-0.73426169041482803 -1.7517785538498885 0.2966670774282234</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="_3-133725_PISTONROD_AS_SW0001_1.stp-3" uid="_3-133725_PISTONROD_AS_SW0001_1.stp-3" grounded="true" entityUid="_3-133725_PISTONROD_AS_SW0001_1.stp*:*Default">
+<Transform>
+<Rotation>-0.80840221376782395 0.50613018821104339 0.30052968797896695 -0.095967211611222999 -0.61705172227648009 0.7810489525831249 0.58075481493557002 0.60256070616750601 0.54739788117243227</Rotation>
+<Translation>-2.1635917795697481 -0.54191684353760095 0.66757456937408199</Translation>
+</Transform>
+</Instance>
+<Instance name="Actuator_Derived.stp-5" uid="Actuator_Derived.stp-5" grounded="true" entityUid="Actuator_Derived.stp*:*Default">
+<Transform>
+<Rotation>0.11746746451323201 -0.60500713477237322 -0.78750730895360976 0.92795780257081995 0.34930103212247426 -0.1299350053146161 0.35368872109351701 -0.71551041629923029 0.60245259791832151</Rotation>
+<Translation>1.158183296347439 2.2346323137513622 0.25</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANAS_SUB_SW0002_1.stp-7" uid="3-134056_CARDANAS_SUB_SW0002_1.stp-7" grounded="true" entityUid="3-134056_CARDANAS_SUB_SW0002_1.stp*:*Default">
+<Transform>
+<Rotation>0.60505373755448999 -0.49999999999999983 0.61960469226059167 0.34932793825127301 0.86602540378443871 0.35772893586780852 -0.71545787173561604 -1.0044266052991679e-15 0.69865587650254746</Rotation>
+<Translation>1.39965670365256 -2.1956765238806102 0.25</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANAS_SUB_SW0002_1.stp-11" uid="3-134056_CARDANAS_SUB_SW0002_1.stp-11" grounded="true" entityUid="3-134056_CARDANAS_SUB_SW0002_1.stp*:*Default">
+<Transform>
+<Rotation>-0.60500713477237322 -0.5 -0.6196501971875128 0.34930103212247415 -0.8660254037844386 0.35775520814961498 -0.71551041629923029 -2.3831284156036091e-16 0.69860206424494786</Rotation>
+<Translation>1.201683296347438 2.3099765238806089 0.25</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANAS_SUB_SW0002_1.stp-2" uid="3-134056_CARDANAS_SUB_SW0002_1.stp-2" grounded="true" entityUid="3-134056_CARDANAS_SUB_SW0002_1.stp*:*Default">
+<Transform>
+<Rotation>0.32092737008147793 -0.38302222928885687 0.86619835776984733 -0.74807742408574585 -0.66341393637990675 -0.016190015137490021 0.58084919790408684 -0.64278761724811673 -0.49943797253179234</Rotation>
+<Translation>-0.92357797431363597 -1.828283915477863 1.9244005776156421</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANAS_SUB_SW0002_1.stp-6" uid="3-134056_CARDANAS_SUB_SW0002_1.stp-6" grounded="true" entityUid="3-134056_CARDANAS_SUB_SW0002_1.stp*:*Default">
+<Transform>
+<Rotation>0.48739035677618592 0.76604444178433617 -0.41907821863335593 0.6519699677885149 7.1303585523358639e-10 0.75824478969646902 0.5808492069577309 -0.64278761127710349 -0.49943796968717774</Rotation>
+<Translation>2.0451292675981958 0.11429997035862 1.924400595921856</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANAS_SUB_SW0002_1.stp-4" uid="3-134056_CARDANAS_SUB_SW0002_1.stp-4" grounded="true" entityUid="3-134056_CARDANAS_SUB_SW0002_1.stp*:*Default">
+<Transform>
+<Rotation>-0.80831773950622587 -0.38302221649939955 -0.44712013337293632 0.096107431325635984 0.66341395995796715 -0.74205476844831142 0.5808492004328949 -0.64278760053440365 -0.49943799110168896</Rotation>
+<Translation>-1.1215513474744041 1.7139839153348591 1.924400622647747</Translation>
+</Transform>
+</Instance>
+<Instance name="3-134056_CARDANAS_SUB_SW0002_1.stp-8" uid="3-134056_CARDANAS_SUB_SW0002_1.stp-8" grounded="true" entityUid="3-134056_CARDANAS_SUB_SW0002_1.stp*:*Default">
+<Transform>
+<Rotation>0.60500711979727584 -0.50000000000000011 -0.6196502118087307 0.34930102347659692 0.8660254037844386 -0.35775521659117987 0.71551043318235885 6.8663885932683635e-16 0.6986020469531945</Rotation>
+<Translation>1.2016832963474391 -2.309976523880612 0.25</Translation>
+</Transform>
+</Instance>
+<Instance name="_3-133725_PISTONROD_AS_SW0001_1.stp-1" uid="_3-133725_PISTONROD_AS_SW0001_1.stp-1" grounded="true" entityUid="_3-133725_PISTONROD_AS_SW0001_1.stp*:*Default">
+<Transform>
+<Rotation>0.48731115401173891 0.28131735970862598 -0.82667308066872158 -0.6521132444935569 0.74684746246165878 -0.13025814435446106 0.58075481533245488 0.60256071141516399 0.5473978749748829</Rotation>
+<Translation>1.5511096339306389 -1.602767022265434 0.66757457301070899</Translation>
+</Transform>
+</Instance>
+<Instance name="_3-133725_PISTONROD_AS_SW0001_1.stp-6" uid="_3-133725_PISTONROD_AS_SW0001_1.stp-6" grounded="true" entityUid="_3-133725_PISTONROD_AS_SW0001_1.stp*:*Default">
+<Transform>
+<Rotation>-0.48739035677618592 0.281226632665875 -0.82665725739328932 -0.6519699677885149 -0.74696884889423998 0.13027931487176589 -0.5808492069577309 0.60245258723075201 0.54741673240370359</Rotation>
+<Translation>1.551046760090014 1.6026829014676589 0.66749964295091202</Translation>
+</Transform>
+</Instance>
+<Instance name="Actuator_Derived.stp-4" uid="Actuator_Derived.stp-4" grounded="true" entityUid="Actuator_Derived.stp*:*Default">
+<Transform>
+<Rotation>-0.8623687631632857 -2.8722649697441952e-16 0.50628066951072204 0.36224909292085483 -0.69860206360773491 0.61703383327094163 0.35368872048489586 0.71551041692138506 0.60245259753672153</Rotation>
+<Translation>-2.5143400000000011 0.1143 0.250000000000001</Translation>
+</Transform>
+</Instance>
+</Instance>
+</InstanceTree>
+<Constraints>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+<Assembly name="GENERIC-02-17-0000-ADM-0000-MotionBaseClean.stp" uid="GENERIC-02-17-0000-ADM-0000-MotionBaseClean.stp" version="103">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="GENERIC-02-17-0000-ADM-0000-MotionBaseClean.stp.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="02-1400-ADM-Lower Joints Assy.iam (LevelofDetail1).stp" uid="02-1400-ADM-Lower Joints Assy.iam (LevelofDetail1).stp" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="02-1400-ADM-Lower Joints Assy.iam (LevelofDetail1).stp.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="03-21-1320-ADM-Lower Cardan Baseplate.stp" uid="03-21-1320-ADM-Lower Cardan Baseplate.stp" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="03-21-1320-ADM-Lower Cardan Baseplate.stp.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="02-21-1100-ADM-1000-Platform_Weges Only.stp" uid="02-21-1100-ADM-1000-Platform_Weges Only.stp" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="02-21-1100-ADM-1000-Platform_Weges Only.stp.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="UJP.stp" uid="UJP.stp" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="UJP.stp.sldasm" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="03-21-1310-ADM-Platform Wedge.stp" uid="03-21-1310-ADM-Platform Wedge.stp" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="03-21-1310-ADM-Platform Wedge.stp.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="02-1100-ADM-Upper Joints Assy.iam (LevelofDetail1).stp" uid="02-1100-ADM-Upper Joints Assy.iam (LevelofDetail1).stp" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="02-1100-ADM-Upper Joints Assy.iam (LevelofDetail1).stp.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+</Assemblies>
+<Parts>
+<Part name="02-21-1310-PDM-0001-Pin.stp" uid="02-21-1310-PDM-0001-Pin.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="02-21-1310-PDM-0001-Pin.stp.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.15891180962313034</Mass>
+<CenterOfMass>0 0 0</CenterOfMass>
+<Inertia>8.3075744935228845e-05 8.3075744935228845e-05 6.4833172751069926e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="02-21-1310-PDM-0001-Pin.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="02-21-1310-PDM-0010-Washer.stp" uid="02-21-1310-PDM-0010-Washer.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="02-21-1310-PDM-0010-Washer.stp.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0030787608005179989</Mass>
+<CenterOfMass>0 0 0</CenterOfMass>
+<Inertia>4.9439767188318188e-07 4.9439767188318188e-07 9.8058531496498235e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="02-21-1310-PDM-0010-Washer.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.0078431372549019607" g="0.51372549019607838" b="0.81176470588235294" a="1"/>
+<Diffuse r="0.0078431372549019607" g="0.51372549019607838" b="0.81176470588235294" a="1"/>
+<Specular r="0.0039215686274509803" g="0.25686274509803919" b="0.40588235294117647" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="03-21-1300-PDM-Cardan Block Key.stp" uid="03-21-1300-PDM-Cardan Block Key.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="03-21-1300-PDM-Cardan Block Key.stp.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.037800505974512878</Mass>
+<CenterOfMass>-0.0035922323422117718 0.02439803885809667 0.010499999999999999</CenterOfMass>
+<Inertia>2.727853269233967e-05 2.6720360953040274e-06 2.7172232254479158e-05 0 0 -5.4565127573266672e-12</Inertia>
+</MassProperties>
+<GeometryFile name="03-21-1300-PDM-Cardan Block Key.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="03-21-1310-ADM-Platform Wedge-0.stp" uid="03-21-1310-ADM-Platform Wedge-0.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="03-21-1310-ADM-Platform Wedge-0.stp.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>13.45284556238998</Mass>
+<CenterOfMass>0.30797154254481984 -3.2760372709151829e-08 0.02</CenterOfMass>
+<Inertia>0.36331444608121993 0.41206454050161595 0.77179156280296124 0 0 -5.9744418134389443e-08</Inertia>
+</MassProperties>
+<GeometryFile name="03-21-1310-ADM-Platform Wedge-0.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.066666666666666666" g="0.75686274509803919" b="0.32941176470588235" a="1"/>
+<Diffuse r="0.066666666666666666" g="0.75686274509803919" b="0.32941176470588235" a="1"/>
+<Specular r="0.033333333333333333" g="0.3784313725490196" b="0.16470588235294117" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="03-21-1310-PDM-Midplate.stp" uid="03-21-1310-PDM-Midplate.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="03-21-1310-PDM-Midplate.stp.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>28.986482892451669</Mass>
+<CenterOfMass>0.11310778158876685 0.062574486336782087 0.26499948552126562</CenterOfMass>
+<Inertia>0.76008696380168328 0.92527010622496031 0.3515786246776782 -1.4494421329525518e-07 -1.5439670166821643e-06 0.021913777496618155</Inertia>
+</MassProperties>
+<GeometryFile name="03-21-1310-PDM-Midplate.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.066666666666666666" g="0.75686274509803919" b="0.32941176470588235" a="1"/>
+<Diffuse r="0.066666666666666666" g="0.75686274509803919" b="0.32941176470588235" a="1"/>
+<Specular r="0.033333333333333333" g="0.3784313725490196" b="0.16470588235294117" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="03-21-1320-PDM-Base Plate.stp" uid="03-21-1320-PDM-Base Plate.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="03-21-1320-PDM-Base Plate.stp.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>30.118041726420721</Mass>
+<CenterOfMass>0.40000523251152637 0.36789795424729327 0.02499942517635563</CenterOfMass>
+<Inertia>1.4027832134399341 1.6750048563747881 3.0652387941409081 -2.9175446008406364e-10 -5.2052235189065825e-06 -5.2722446127541288e-07</Inertia>
+</MassProperties>
+<GeometryFile name="03-21-1320-PDM-Base Plate.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Diffuse r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Specular r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="03-21-1320-PDM-Midplate.stp" uid="03-21-1320-PDM-Midplate.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="03-21-1320-PDM-Midplate.stp.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>7.5480386777935777</Mass>
+<CenterOfMass>0.23109698950319441 0.12248397427880822 0.024370959809312743</CenterOfMass>
+<Inertia>0.05406209354052597 0.1787888444364662 0.22966546978235861 9.9581269463401795e-05 -5.2161128224609147e-09 7.8390268366058823e-08</Inertia>
+</MassProperties>
+<GeometryFile name="03-21-1320-PDM-Midplate.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Diffuse r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Specular r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="03-21-1320-PDM-Threaded Rod.stp" uid="03-21-1320-PDM-Threaded Rod.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="03-21-1320-PDM-Threaded Rod.stp.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.062771115606719621</Mass>
+<CenterOfMass>0 0 0.099999999999999978</CenterOfMass>
+<Inertia>0.00021040416292474734 0.00021040416292474734 3.1359069988170904e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="03-21-1320-PDM-Threaded Rod.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Diffuse r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Specular r="0.37450980392156863" g="0.37450980392156863" b="0.37450980392156863" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="3-134056_CARDANAS_SUB_SW0002_1.stp" uid="3-134056_CARDANAS_SUB_SW0002_1.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="3-134056_CARDANAS_SUB_SW0002_1.stp.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.4652788973442152</Mass>
+<CenterOfMass>-7.0797098440923078e-06 -0.050807613908309984 -1.8069367016683435e-05</CenterOfMass>
+<Inertia>0.0089763229265787167 0.0015415719950922779 0.0087830146576352644 1.8020223788282821e-06 1.1746414516034677e-10 1.6899250316278432e-06</Inertia>
+</MassProperties>
+<GeometryFile name="3-134056_CARDANAS_SUB_SW0002_1.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.80000000000000004" g="0.80000000000000004" b="0.80000000000000004" a="1"/>
+<Diffuse r="0.80000000000000004" g="0.80000000000000004" b="0.80000000000000004" a="1"/>
+<Specular r="0.40000000000000002" g="0.40000000000000002" b="0.40000000000000002" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="3-134056_CARDANHUIS_A_SW0002.stp" uid="3-134056_CARDANHUIS_A_SW0002.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="3-134056_CARDANHUIS_A_SW0002.stp.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>3.4436519387209952</Mass>
+<CenterOfMass>0 0.088589083721040907 0</CenterOfMass>
+<Inertia>0.013253190360344702 0.01189043964181385 0.013254319396432844 0 1.8606679281515257e-11 0</Inertia>
+</MassProperties>
+<GeometryFile name="3-134056_CARDANHUIS_A_SW0002.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.80000000000000004" g="0.80000000000000004" b="0.80000000000000004" a="1"/>
+<Diffuse r="0.80000000000000004" g="0.80000000000000004" b="0.80000000000000004" a="1"/>
+<Specular r="0.40000000000000002" g="0.40000000000000002" b="0.40000000000000002" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="3-134056_CARDAN_STEUN.stp" uid="3-134056_CARDAN_STEUN.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="3-134056_CARDAN_STEUN.stp.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>15.709614114239233</Mass>
+<CenterOfMass>0.11429999997646921 0.18205891443223982 -0.038131950399507786</CenterOfMass>
+<Inertia>0.18573967839500469 0.34201129953240222 0.36892721948327606 -8.2539567542627739e-05 3.6497181433133558e-11 -3.1825090598627723e-10</Inertia>
+</MassProperties>
+<GeometryFile name="3-134056_CARDAN_STEUN.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.5" g="0.5" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Actuator_Derived.stp" uid="Actuator_Derived.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Actuator_Derived.stp.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>169.96414406679074</Mass>
+<CenterOfMass>0.03216769737819769 -0.00074493233296787096 1.1727361876553664</CenterOfMass>
+<Inertia>83.378105912909334 84.760427016417324 3.0904365904593094 -0.087223420329004306 4.1797982219622147 0.033239800815753388</Inertia>
+</MassProperties>
+<GeometryFile name="Actuator_Derived.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.63921568627450975" g="0.63921568627450975" b="0.68627450980392157" a="1"/>
+<Diffuse r="0.63921568627450975" g="0.63921568627450975" b="0.68627450980392157" a="1"/>
+<Specular r="0.31960784313725488" g="0.31960784313725488" b="0.34313725490196079" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DIN 582 M20.stp" uid="DIN 582 M20.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="DIN 582 M20.stp.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.044893952892826446</Mass>
+<CenterOfMass>0.029337581383556879 -7.4550114373665097e-10 1.1491310376561998e-08</CenterOfMass>
+<Inertia>1.8271185926695916e-05 2.2814986279515312e-05 3.6141681171100216e-05 -5.7014489359049344e-12 7.5974542934981606e-12 -4.3559584631749593e-13</Inertia>
+</MassProperties>
+<GeometryFile name="DIN 582 M20.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.63921568627450975" g="0.63921568627450975" b="0.68627450980392157" a="1"/>
+<Diffuse r="0.63921568627450975" g="0.63921568627450975" b="0.68627450980392157" a="1"/>
+<Specular r="0.31960784313725488" g="0.31960784313725488" b="0.34313725490196079" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DIN 7980 - withdrawn 6.stp" uid="DIN 7980 - withdrawn 6.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="DIN 7980 - withdrawn 6.stp.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>6.8311466930679062e-05</Mass>
+<CenterOfMass>0.00079990569796406302 -1.1971381663845916e-05 -0.00010448143469163407</CenterOfMass>
+<Inertia>1.1977800711176704e-09 5.9867661226559159e-10 6.2824825455275457e-10 3.3820120446540315e-12 6.7351632790490013e-16 2.2056570104221279e-13</Inertia>
+</MassProperties>
+<GeometryFile name="DIN 7980 - withdrawn 6.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.63921568627450975" g="0.63921568627450975" b="0.68627450980392157" a="1"/>
+<Diffuse r="0.63921568627450975" g="0.63921568627450975" b="0.68627450980392157" a="1"/>
+<Specular r="0.31960784313725488" g="0.31960784313725488" b="0.34313725490196079" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DIN 933 - replaced by DIN EN 24017 M6  x 25.stp" uid="DIN 933 - replaced by DIN EN 24017 M6  x 25.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="DIN 933 - replaced by DIN EN 24017 M6  x 25.stp.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0010221629295254114</Mass>
+<CenterOfMass>0.0078761810477300069 0 0</CenterOfMass>
+<Inertia>7.5061345947401266e-09 8.7372148570179518e-08 8.7372148302386862e-08 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="DIN 933 - replaced by DIN EN 24017 M6  x 25.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.63921568627450975" g="0.63921568627450975" b="0.68627450980392157" a="1"/>
+<Diffuse r="0.63921568627450975" g="0.63921568627450975" b="0.68627450980392157" a="1"/>
+<Specular r="0.31960784313725488" g="0.31960784313725488" b="0.34313725490196079" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="DIN EN 24032 M20.stp" uid="DIN EN 24032 M20.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="DIN EN 24032 M20.stp.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0095159849561362517</Mass>
+<CenterOfMass>0.0089999999999999924 1.3076496019737107e-10 -4.2572880286042929e-08</CenterOfMass>
+<Inertia>1.5366155774627967e-06 1.0119019116633622e-06 1.0119152435453024e-06 3.0249478147755367e-13 1.033952867913445e-12 5.9695296613614793e-13</Inertia>
+</MassProperties>
+<GeometryFile name="DIN EN 24032 M20.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.63921568627450975" g="0.63921568627450975" b="0.68627450980392157" a="1"/>
+<Diffuse r="0.63921568627450975" g="0.63921568627450975" b="0.68627450980392157" a="1"/>
+<Specular r="0.31960784313725488" g="0.31960784313725488" b="0.34313725490196079" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="M24x80.stp" uid="M24x80.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="M24x80.stp.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.056590494151916339</Mass>
+<CenterOfMass>0.021450798289463443 0 0</CenterOfMass>
+<Inertia>6.31532597420878e-06 5.6785082770680994e-05 5.6785082770680994e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="M24x80.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Diffuse r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Specular r="0.37450980392156863" g="0.37450980392156863" b="0.37450980392156863" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="_3-133725_PISTONROD_AS_SW0001_1.stp" uid="_3-133725_PISTONROD_AS_SW0001_1.stp*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="_3-133725_PISTONROD_AS_SW0001_1.stp.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>18.44437402779927</Mass>
+<CenterOfMass>-2.3409283522933524e-08 1.1048097848235536 -4.5174465245596765e-09</CenterOfMass>
+<Inertia>5.5164432194401378 0.032518434683220916 5.5170508045310083 3.8810211798974997e-08 2.5207900802033134e-09 3.0317952358203489e-07</Inertia>
+</MassProperties>
+<GeometryFile name="_3-133725_PISTONROD_AS_SW0001_1.stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.80000000000000004" g="0.80000000000000004" b="0.80000000000000004" a="1"/>
+<Diffuse r="0.80000000000000004" g="0.80000000000000004" b="0.80000000000000004" a="1"/>
+<Specular r="0.40000000000000002" g="0.40000000000000002" b="0.40000000000000002" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>

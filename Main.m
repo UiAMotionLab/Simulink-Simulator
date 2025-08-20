@@ -1,3 +1,7 @@
+close all
+clear
+clc
+
 %Load All Parameters
 run Parameters.m
 run HMIVars.m

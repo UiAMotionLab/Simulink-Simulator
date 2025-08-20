@@ -1,4 +1,7 @@
 %% eMotion-8000 Stewart Platform
+VarBig.z0 = 2.88; 
+VarBig.OffsetCOG = [0, 0, VarBig.z0]; 
+
 VarBig.BF2ShaftJointDist = 58-8; %mm
 VarBig.test = 1; 
 VarBig.Shaft2BaseRot = -90; %deg
@@ -18,6 +21,9 @@ VarBig.Freq5 = 1;
 VarBig.Freq7 = 1;
 VarBig.Freq8 = 1;
 %% eMotion-1500 Stewart Platform
+Var.z0 = 1.777; 
+Var.OffsetCOG = [0, 0, Var.z0]; 
+
 Var.BF2ShaftJointDist = 58-8; %mm
 Var.test = 1; 
 Var.Shaft2BaseRot = -90; %deg
